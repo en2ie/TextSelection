@@ -4,7 +4,7 @@
   <output>
     <movie outputType="Application" />
     <movie input="" />
-    <movie path="bin\MauveGazelle.swf" />
+    <movie path="bin\TextSelection.swf" />
     <movie fps="60" />
     <movie width="480" />
     <movie height="762" />
@@ -12,7 +12,7 @@
     <movie minorVersion="7" />
     <movie platform="AIR Mobile" />
     <movie background="#FFFFFF" />
-    <movie preferredSDK="AIR 3.7.0;3.7.0;" />
+    <movie preferredSDK="AIR 3.8.0;3.8.0;" />
   </output>
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
@@ -43,7 +43,7 @@
     <option linkReport="" />
     <option loadExterns="" />
     <option staticLinkRSL="True" />
-    <option additional="-swf-version=20" />
+    <option additional="-swf-version=21" />
     <option compilerConstants="" />
     <option minorVersion="" />
   </build>

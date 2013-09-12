@@ -31,19 +31,19 @@
     <optimize>true</optimize>
     <verbose-stacktraces>false</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Users\benh\Desktop\TextSelection\src</path-element>
-      <path-element>C:\Users\benh\Desktop\TextSelection\lib\MetalWorksMobileTheme\source</path-element>
+      <path-element>C:\Users\benh\Documents\GitHub\TextSelection\src</path-element>
+      <path-element>C:\Users\benh\Documents\GitHub\TextSelection\lib\MetalWorksMobileTheme\source</path-element>
       <path-element>C:\Program Files (x86)\Adobe\Adobe Flash CS6\FLEX4.6\frameworks\projects\framework\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <external-library-path append="true" />
     <library-path append="true">
-      <path-element>C:\Users\benh\Desktop\TextSelection\lib\starling.swc</path-element>
-      <path-element>C:\Users\benh\Desktop\TextSelection\lib\feathers.swc</path-element>
+      <path-element>C:\Users\benh\Documents\GitHub\TextSelection\lib\starling.swc</path-element>
+      <path-element>C:\Users\benh\Documents\GitHub\TextSelection\lib\feathers.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Users\benh\Desktop\TextSelection\src\Application.as</path-element>
+    <path-element>C:\Users\benh\Documents\GitHub\TextSelection\src\Application.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>60</default-frame-rate>

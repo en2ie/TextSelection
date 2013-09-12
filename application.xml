@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<application xmlns="http://ns.adobe.com/air/application/3.7">
+<application xmlns="http://ns.adobe.com/air/application/3.8">
   <id>com.benhallapps.textselection</id>
   <versionNumber>0.1</versionNumber>
   <supportedProfiles>mobileDevice</supportedProfiles>
@@ -29,8 +29,8 @@
     <requestedDisplayResolution>high</requestedDisplayResolution>
   </iPhone>
   <initialWindow>
-    <title>MauveGazelle</title>
-    <content>MauveGazelle.swf</content>
+    <title>TextSelection</title>
+    <content>TextSelection.swf</content>
     <visible>true</visible>
     <fullScreen>false</fullScreen>
     <!--<autoOrients>false</autoOrients>-->
