@@ -3,7 +3,7 @@
   <id>com.benhallapps.textselection</id>
   <versionNumber>0.1</versionNumber>
   <supportedProfiles>mobileDevice</supportedProfiles>
-  <filename>MauveGazelle</filename>
+  <filename>TextSelection</filename>
   <name>TextSelection</name>
   <android>
     <manifestAdditions><![CDATA[<manifest android:installLocation="auto">
